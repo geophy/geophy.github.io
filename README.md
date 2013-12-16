@@ -1,4 +1,4 @@
 geophy.github.io
 ================
 
-home-pge
+home-page
