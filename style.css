@@ -3,9 +3,9 @@
  * ------------------------------------------------------------------------- */
 html, body
 {
-
- font-family: 'goudy old style', 'minion pro', 'bell mt', Georgia, 'Hiragino Mincho Pro';
-    font-size: 17px;
+   font-family:Georgia, Palatino, 'Palatino Linotype', Times, 'Times New Roman', "Hiragino Sans GB", "STXihei", "微软雅黑", serif;
+   font-size:16px;
+ 
     background-color: white;
     color: #000;
     margin: 0;
